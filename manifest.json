@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Font Size Control",
+  "version": "1.0",
+  "description": "",
+  "content_scripts": [
+    {
+      "matches": [],
+      "js": ["./main.js"]
+    }
+  ]
+}
